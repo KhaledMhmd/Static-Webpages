@@ -1,0 +1,36 @@
+body {
+  background-color: #cce7e8;
+  margin-top: 30px;
+}
+.Name_Pic {
+  text-align: center;
+}
+h1 {
+  font: bold 50px Courier New, Monospace;
+  text-shadow: 1px 1px grey;
+}
+h2 {
+  font: italic small-caps 20px Courier New, Monospace;
+  text-decoration: underline;
+  padding: 20px;
+}
+ul {
+  list-style: circle;
+}
+li {
+  padding: 5px;
+}
+p {
+  text-align: center;
+}
+a:link {
+  color:blue;
+  text-decoration: none;
+}
+a:visited {
+  color:red;
+}
+a:hover {
+  color:blue;
+  text-decoration: underline;
+}
