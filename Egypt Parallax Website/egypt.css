@@ -1,0 +1,45 @@
+.pimg1 {
+  background-image: url(https://static.wixstatic.com/media/159272_8e3a562afb0f4a9bbad31b9f7e480801~mv2_d_1242_1253_s_2.jpg/v1/fill/w_1000,h_1009,al_c,q_90,usm_0.66_1.00_0.01/159272_8e3a562afb0f4a9bbad31b9f7e480801~mv2_d_1242_1253_s_2.jpg);
+  min-height: 100%;
+}
+.pimg1, .pimg2, .pimg3 {position: relative;
+  opacity: 0.7;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+body {height: 100%;
+margin: 0;
+font-size: 16px;
+font-family: "Lato",sans-serif;
+font-weight: 400;
+line-height: 1.8em;
+color:#666;}
+html {height:100%;}
+.section-light {background-color: #f4f4f4;
+color: #666;}
+.section {text-align: center;
+padding: 50px 80px;
+}
+.pimg2 {background-image: url(https://i.pinimg.com/originals/5c/fd/41/5cfd4189c5502f41aaf9b2b68d9dcbe2.jpg);
+min-height:100%;}
+.pimg3 {background-image: url(https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F458630633%2F0x0.jpg);
+  min-height: 100%;
+}
+.section-dark {background-color: #282e34;
+color: #ddd;}
+.ptext .border {background-color: #111;
+color: #FFF;
+padding: 20px;}
+.ptext {position: absolute;
+  top: 50%;
+  width:100%;
+  text-align: center;
+  color: #000;
+  font-size: 27px;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+}
+a:link {text-decoration: none;
+color:white;}
